@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [SteerNet: A Machine Learning Algorithm for Real-Time Self-driving Steering Control](https://github.com/SnehilSharma31/Self-driving-Steering)
 
-- 👨‍💻 All of my projects are available at [https://snehilsharma31.github.io/Snehil-Sharma-Portfolio/](https://snehilsharma31.github.io/Snehil-Sharma-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://snehilsharma31.github.io/Snehil-Sharma-Portfolio/)
 
 - 💬 Ask me about **CS, AI, ML, Data Science**
 
 - 📫 How to reach me **snehilsharma31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sG0CCsA4w9qOfSUZeah1_2yeaj7vyGYD/view?usp=share_link](https://drive.google.com/file/d/1sG0CCsA4w9qOfSUZeah1_2yeaj7vyGYD/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sG0CCsA4w9qOfSUZeah1_2yeaj7vyGYD/view?usp=share_link)
 
 - ⚡ Fun fact **I think I have Sense of Humor 🙃**
 
