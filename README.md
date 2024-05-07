@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehilsharma31" alt="snehilsharma31" /></a> </p>
 
-- 🔭 I’m currently working on [SteerNet: A Machine Learning Algorithm for Real-Time Self-driving Steering Control](https://github.com/SnehilSharma31/Self-driving-Steering)
+- 🔭 I'm currently working on an algorithm to predict the next internet meme. Stay tuned for groundbreaking results (or complete nonsense).
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://snehilsharma31.github.io/Snehil-Sharma-Portfolio/)
 
